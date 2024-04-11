@@ -1,0 +1,23 @@
+{
+    "id": 11,
+    "name": "Usuario Novo",
+    "username": "NovoUser",
+    "email": "novouser@email.com",
+    "address": {
+        "street": "rua da rua",
+        "suite": "Apt. 333",
+        "city": "Teste",
+        "zipcode": "00000-000",
+        "geo": {
+          "lat": "-11.1111",
+          "lng": "11.1111"
+        }
+      },
+      "phone": "111-1-111-1111 x11111",
+      "website": "siteparateste.org",
+      "company": {
+        "name": "CompanyTeste",
+        "catchPhrase": "Uma companhia criada para teste",
+        "bs": "Testes bem feitos"
+        }
+}
