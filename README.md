@@ -26,7 +26,7 @@ Na segunda fase, a proposta foi referente à validação de verbos HTTP, respons
 
 ## Como Executar os Testes
 
-1. Clone o repositório: 
+1. Clone o repositório: https://github.com/NegriniQA/paranabank_test
 2. Instale as dependências: `npm install`
 3. Instale as dependências: `npm install ajv`
 4. Execute os testes: `npx cypress run` ou `npx cypress open`
