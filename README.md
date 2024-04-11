@@ -38,6 +38,6 @@ Os desafios propostos, levaram-me uma compreensão mais profunda das capacidades
 
 ## Autor
 
-- [Seu Nome](https://github.com/SeuGithub)
+- [Matheus Negrini](https://github.com/NegriniQA)
 
 Agradeço à oportunidade de passar por estes desafios, incrementando experiência nas minhas habilidades e podendo demonstrar meu trabalho e meus métodos.
