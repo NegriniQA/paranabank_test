@@ -12,7 +12,7 @@ describe('Testa JSON Schema com ajv', () => {
         .then(response => {
         const schema = require('../Auxiliares/v_jsonSchema.json');
         const validaçao = ajv.compile(schema);
-        const valid = validate(response);
+        const valid = validaçao(response);
 
             if (!valid) {
             throw new Error(`JSON does not match the schema. Errors: ${ajv.errorsText(validaçao.errors)}`);
